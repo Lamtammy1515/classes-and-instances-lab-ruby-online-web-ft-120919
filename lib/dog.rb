@@ -2,5 +2,8 @@
 
 
 class dog 
-  def dog_type
-    dog_type=[""]
+end 
+
+fido=dog.new
+snoopy=dog.new
+lassie=dog.new
