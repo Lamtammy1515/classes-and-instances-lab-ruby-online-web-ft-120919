@@ -1,5 +1,5 @@
 
 
 
-def dog
+class dog 
   
